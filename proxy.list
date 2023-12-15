@@ -1,6 +1,15 @@
+IP-CIDR,208.54.0.0/16
 DOMAIN-KEYWORD,cybersole
 DOMAIN-KEYWORD,bootteer
 DOMAIN-KEYWORD,stockx
 DOMAIN-KEYWORD,supreme.com
 DOMAIN-SUFFIX,s0.gg
 DOMAIN-SUFFIX,z0fan.net
+DOMAIN-KEYWORD,3gppnetwork
+DOMAIN-SUFFIX,crl.t-mobile.com
+DOMAIN-SUFFIX,eas3.msg.t-mobile.com
+DOMAIN-SUFFIX,mascns.t-mobile.com
+DOMAIN-SUFFIX,ns.sipgeo.t-mobile.com
+IP-CIDR,66.94.0.0/19
+IP-CIDR,206.29.177.36/32
+
