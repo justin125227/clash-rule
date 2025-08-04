@@ -9,5 +9,10 @@ DOMAIN-KEYWORD,abcchina
 DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,cncpts
 IP-CIDR,208.54.88.0/32
-DOMAIN-KEYWORD,game
 DOMAIN-KEYWORD,clashofclans
+DOMAIN-SUFFIX,gpoticket.globalinterpark.com
+DOMAIN-SUFFIX,thirdwx.qlogo.cn
+DOMAIN-SUFFIX,smtickets.com
+DOMAIN-SUFFIX,viglink.com
+DOMAIN-KEYWORD,supercell
+DOMAIN-SUFFIX,clashofclans
